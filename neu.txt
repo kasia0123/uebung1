@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bla bla
+=======
+bla
+>>>>>>> add/new-functionality
